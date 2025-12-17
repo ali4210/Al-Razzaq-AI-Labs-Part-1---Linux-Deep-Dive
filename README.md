@@ -294,6 +294,3 @@ source ~/.bashrc
 
 **Status:** Completed
 **Certification Level:** Equivalent to RHCSA / LFCS
-
-
-```
